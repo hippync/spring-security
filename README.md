@@ -24,3 +24,5 @@ To build and the run the project, follow these steps:
 - Run the project: `mvn spring-boot:run`
 
 -> The application will be avaible at http://localhost:8080.
+
+Thanks to [Ali Bouali](https://github.com/ali-bouali) for his tutorial on authentification with Spring.
